@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.517,=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas=E:\DelphiProjects\_Puntus\ProductList\src\PLConst.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\DelphiProjects\_Puntus\ProductList\src\MainFrm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\ProductList.dproj=E:\DelphiProjects\_Puntus\ProductList\src\ProductList.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,E:\DelphiProjects\_Puntus\ProductList\src\PLDataModule.pas=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,=E:\DelphiProjects\_Puntus\ProductList\src\SOAPQuadService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.160,E:\DelphiProjects\_Puntus\ProductList\src\PLView.pas=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,=E:\DelphiProjects\_Puntus\ProductList\src\PLListClasses.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,E:\DelphiProjects\_Puntus\ProductList\src\PLExcelUtils.pas=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\DelphiProjects\_Puntus\ProductList\src\MainFrm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,E:\DelphiProjects\_Puntus\ProductList\src\PLDataModule.dfm=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.167,=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,E:\DelphiProjects\_Puntus\ProductList\src\PLClasses.pas=E:\DelphiProjects\_Puntus\ProductList\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\ProductList.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
